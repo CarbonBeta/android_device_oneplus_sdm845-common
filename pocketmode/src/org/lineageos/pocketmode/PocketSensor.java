@@ -24,7 +24,7 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.text.TextUtils;
 import android.util.Log;
-
+import com.android.internal.util.cr.FileUtils;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
